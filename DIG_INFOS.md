@@ -21,7 +21,7 @@
 ![VirtualBoxVM_SNiPjy7CIT.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_SNiPjy7CIT.png)
 
 * Serveur primaire :
-> cash.ns.cloudflare.com. dns.cloudflare.com. 2357424175 10000 2400 604800 1800
+> cash.ns.cloudflare.com. dns.cloudflare.com. 2357424175 10000 2400 604800 1800  
 **Pas sûr de cette réponse**
 
 ![VirtualBoxVM_hpFlEm8bcv.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_hpFlEm8bcv.png)
