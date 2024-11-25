@@ -21,9 +21,10 @@
 ![VirtualBoxVM_SNiPjy7CIT.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_SNiPjy7CIT.png)
 
 * Serveur primaire :
->   
+> cash.ns.cloudflare.com. dns.cloudflare.com. 2357424175 10000 2400 604800 1800
+**Pas sûr de cette réponse**
 
-![]()
+![VirtualBoxVM_hpFlEm8bcv.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_hpFlEm8bcv.png)
 
 ## Bonus : Refaire les requêtes précédentes en précisant l'utilisation du serveur récursif quad9 (9.9.9.9 ou 2620:fe::9)
 
