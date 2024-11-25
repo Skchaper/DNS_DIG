@@ -5,7 +5,7 @@
 
 ## Adresses IP version 6 de **Odyssey** 
 
-> ghs.googlehosted.com.
+> ghs.googlehosted.com.  
 > 2a00:1450:4007:813::2013
 
 ## Bonus : noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire
