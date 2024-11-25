@@ -14,7 +14,16 @@
 
 ## Bonus : noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com et le serveur primaire
 
+**Noms des serveurs de noms faisant autorité :**
+> cash.ns.cloudflare.com.  
+> kim.ns.cloudflare.com.  
 
+![VirtualBoxVM_SNiPjy7CIT.png](https://github.com/Skchaper/DNS_DIG/blob/main/Screenshots/VirtualBoxVM_SNiPjy7CIT.png)
+
+* Serveur primaire :
+>   
+
+![]()
 
 ## Bonus : Refaire les requêtes précédentes en précisant l'utilisation du serveur récursif quad9 (9.9.9.9 ou 2620:fe::9)
 
